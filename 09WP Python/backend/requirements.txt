@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+alembic
+pymysql
+meilisearch
+redis
+python-jose
+passlib
+python-dotenv
+celery
+pydantic
